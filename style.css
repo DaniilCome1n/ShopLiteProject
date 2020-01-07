@@ -1,8 +1,13 @@
 body {
     display: flex;
     flex-direction: column;
+    background-color: #191920cb
 }
 
+#main{
+    padding-left: 38%;
+    padding-top: 50px;
+}
 .products {
     width: 250px;
     height: 70px;

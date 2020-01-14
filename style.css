@@ -83,3 +83,12 @@ body {
 #prod5 {
     background-color: #862d59;
 }
+
+
+
+@media (max-width: 376px){
+    #main{
+        padding-left: 17%;
+        padding-top: 70px;
+    }
+}
